@@ -1,6 +1,6 @@
 # What is Desktop Computer?
 
-[![what is desktop computer](redd.png)](https://github.com/resolutionsite/what.is.desktop.computer)
+[![what is desktop computer](redd.png)](https://icncomputer.com/what-is-desktop-computer/)
 
 
 
